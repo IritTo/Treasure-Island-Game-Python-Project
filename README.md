@@ -22,3 +22,5 @@ In the Treasure Island Game, you will make choices at various points in the stor
 To play the game, you need to have Python installed on your computer. If you don't have Python installed, you can download it from the [official website](https://www.python.org/).
 
 You can find the script [here](https://github.com/IritTo/Treasure-Island-Game-Python-Project/blob/main/treasure_island.py).
+
+My site is live at [https://iritto.github.io/Treasure-Island-Game-Python-Project/](https://iritto.github.io/Treasure-Island-Game-Python-Project/)
